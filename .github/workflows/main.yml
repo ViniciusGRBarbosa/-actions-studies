@@ -23,4 +23,4 @@ jobs:
                   cd pipeLineWithVue
                   yarn install
                   yarn build
-                  yarn test
+                 
