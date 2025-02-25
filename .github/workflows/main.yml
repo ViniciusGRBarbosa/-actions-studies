@@ -19,6 +19,7 @@ jobs:
 
             - name: run instal, build and test
               run: |
+                  cd pipeLineWithVue
                   yarn install
                   yarn build
                   yarn test
